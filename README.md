@@ -3,11 +3,11 @@
 The below is the Analytical Data Architecture for IMDb project:
 <img width="972" alt="image" src="https://github.com/Shrutika-Salian/IMDb-Data---Engineered-and-Visualization/assets/91072559/92beea91-98ba-4beb-8a4f-b9d114b705ce">
 
-The above Analytica Data Architecture (ADA) consists of following steps:
-▪ Staging – load data from data sources
-▪ Integration – load into a dimensional model that provides data consistency
-▪ BI Schemas – create one or more BI schemas tailored to specific types of analysis
-▪ BI Dashboards - create interactive dashboards to analyze movies, TV episodes, actors/actresses, show runtimes and so on.
+The above Analytica Data Architecture (ADA) consists of following steps:<br />
+▪ Staging – load data from data sources<br />
+▪ Integration – load into a dimensional model that provides data consistency<br />
+▪ BI Schemas – create one or more BI schemas tailored to specific types of analysis<br />
+▪ BI Dashboards - create interactive dashboards to analyze movies, TV episodes, actors/actresses, show runtimes and so on.<br /><br />
 
 Tasks Performed in Detail:
 • Designed Data Warehouse for the IMDb Database <br />
