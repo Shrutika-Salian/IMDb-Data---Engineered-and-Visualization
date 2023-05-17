@@ -22,9 +22,9 @@ Tasks Performed in Detail:
 Source Databases & Files: MS Sql Server, MySQL, PostgreSQL, .csv & .tsv files <br />
 Target Data Warehouse and Staging: MS Sql Server <br />
 BI Schema Databases: MS Sql Server, PostgreSQL, MySQL <br />
-Tools: DBeaver, SMSS, PgAdmin, Talend, Alteryx, PowerBI, Tableau
+Tools: DBeaver, SMSS, PgAdmin, Talend, Alteryx, PowerBI, Tableau<br /><br />
 
-Link to Dashboards:
-Analysis of TV Shows: https://tinyurl.com/Imdb-TVShows
+Link to Dashboards:<br />
+Analysis of TV Shows: https://tinyurl.com/Imdb-TVShows<br />
 Analysis of Movies and Top 500 Villians involved: https://tinyurl.com/IMDB-powerBi
 
