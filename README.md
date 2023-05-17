@@ -1,4 +1,4 @@
-### IMDb-Data---Engineered-and-Visualization
+### IMDb-Data---Engineered-and-Analyzed through Visualizations
 
 The below is the Analytical Data Architecture for IMDb project:
 <img width="972" alt="image" src="https://github.com/Shrutika-Salian/IMDb-Data---Engineered-and-Visualization/assets/91072559/92beea91-98ba-4beb-8a4f-b9d114b705ce">
