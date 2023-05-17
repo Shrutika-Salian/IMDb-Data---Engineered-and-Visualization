@@ -9,7 +9,7 @@ The above Analytica Data Architecture (ADA) consists of following steps:<br />
 ▪ BI Schemas – create one or more BI schemas tailored to specific types of analysis<br />
 ▪ BI Dashboards - create interactive dashboards to analyze movies, TV episodes, actors/actresses, show runtimes and so on.<br /><br />
 
-Tasks Performed in Detail:
+Tasks Performed in Detail:<br />
 • Designed Data Warehouse for the IMDb Database <br />
 • Pipelined and staged largescale data from multiple database sources and integrated into one database using TALEND <br />
 • Profiled, cleansed, and integrated the data using ALTERYX and TALEND <br />
