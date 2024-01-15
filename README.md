@@ -9,6 +9,10 @@ The above Analytica Data Architecture (ADA) consists of following steps:<br />
 ▪ BI Schemas – create one or more BI schemas tailored to specific types of analysis<br />
 ▪ BI Dashboards - create interactive dashboards to analyze movies, TV episodes, actors/actresses, show runtimes and so on.<br /><br />
 
+Box Office Mojo by IMDbPro is the leading online box office reporting and analysis service that tracks box office receipts both domestically and internationally. Box Office Mojo by IMDbPro is a resource for entertainment industry professionals, journalists, researchers, financiers, and movie fans worldwide. It provides comprehensive box office data for 60+ countries and territories. Box Office Mojo by IMDbPro includes daily, weekly, weekend, monthly, yearly, seasonal, and holiday domestic box-office grosses, as well as international box office grosses. Additionally, Box Office Mojo by IMDbPro includes a selection of all-time rankings and a release calendar for upcoming movies.<br /><br />
+
+The Numbers provides detailed movie financial analysis, including box office, DVD and Blu-ray sales reports, and release schedules.<br /><br />
+
 Tasks Performed in Detail:<br />
 • Designed Data Warehouse for the IMDb Database <br />
 • Pipelined and staged largescale data from multiple database sources and integrated into one database using TALEND <br />
